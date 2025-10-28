@@ -44,6 +44,24 @@ msgctxt "#30130"
 msgid "Use subtitles when available"
 msgstr ""
 
+msgctxt "#30131"
+msgid "Play HEVC live streams when available"
+msgstr ""
+
+msgctxt "#30132"
+msgid "Provides higher quality but may not work on all devices.\n"
+"Turn off this option if streams fail to play"
+msgstr ""
+
+msgctxt "#30133"
+msgid "Play HEVC 4K HLG streams when available"
+msgstr ""
+
+msgctxt "#30134"
+msgid "Provides higher quality but may not work on all devices.\n"
+"Turn off this option if streams fail to play"
+msgstr ""
+
 msgctxt "#30140"
 msgid "Enable BBC iD"
 msgstr ""
